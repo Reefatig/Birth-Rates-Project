@@ -18,7 +18,7 @@ As part of my Udacity Nanodegree in Data Science, I ran an exploratory analysis 
 - How do total births compare among the two age groups ?
 
 ## File Descriptions
-The analysis can be found in this [file](https://github.com/ccalixwoc/Data-Science-Nanodegree-Project-1/blob/master/dsnd-project-1.ipynb). This Jupyter notebook demonstrates all the related work to answer the questions above. It includes the preprocessing steps required for the analysis. Additionally, it includes all the Plotly visualizations used to answer these questions. 
+The analysis can be found in this [file](https://github.com/Reefatig/Birth-Rates-Project/blob/main/Teen%20Birth%20Rates.ipynb). This Jupyter notebook demonstrates all the related work to answer the questions above. It includes the preprocessing steps required for the analysis. Additionally, it includes all the Plotly visualizations used to answer these questions. 
 
 ## Results
 The results can be found in this Medium [post](https://medium.com/@rfatig/teen-births-where-you-live-matters-a65207a32d58).
